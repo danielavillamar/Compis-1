@@ -1,0 +1,15 @@
+++++++++++++++++  Atributes of Main  ++++++++++++++++
+_(0)_ :
+n : 0x0
+++++++++++++++++  Exucatbles at Main.main  ++++++++++++++++
+_(1)_ :
+execute Main.main.1
+++++++++++++++++  Exucatbles at Main.main.1  ++++++++++++++++
+_(3)_ :
+T3 = "Hello world!\n"
+_(2)_ :
+param T3
+T2 = call out_string, 1
+_(4)_ :
+T4 = 0x0
+++++++++++++++++  End of Main.main.1  ++++++++++++++++
